@@ -1,0 +1,14 @@
+.login-info {
+    display: flex;
+    align-items: center;
+}
+
+.login-name {
+    margin-left: 15px;
+    color: #303133;
+    font-weight: bold;
+}
+
+.login-out {
+    background-color: #ffffff !important;
+}

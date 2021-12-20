@@ -1,0 +1,65 @@
+.header {
+    background-color: #f2f3f5;
+}
+
+.login-info {
+    display: flex;
+    align-items: center;
+}
+
+.login-name {
+    margin-left: 15px;
+    color: #303133;
+    font-weight: bold;
+}
+
+.login-out {
+    background-color: #ffffff !important;
+}
+
+.ip-address {
+    margin-left: 20px;
+}
+
+.menu-demo-button {
+    position: relative;
+    width: 660px;
+    height: 300px;
+    background-color: var(--color-fill-2);
+}
+
+.button-trigger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    font-size: 22px;
+    color: var(--color-white);
+    cursor: pointer;
+    transition: all 0.1s;
+}
+
+.button-trigger:nth-child(1) {
+    background-color: var(--color-neutral-5);
+}
+
+.button-trigger:nth-child(1).button-trigger-active {
+    background-color: var(--color-neutral-4);
+}
+
+.button-trigger:nth-child(2) {
+    background-color: rgb(var(--arcoblue-6));
+}
+
+.button-trigger:nth-child(2).button-trigger-active {
+    background-color: var(--color-primary-light-4);
+}
+
+.menu-icon {
+    margin-right: 10px;
+}

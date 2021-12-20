@@ -1,0 +1,8 @@
+com\ustc\register\RegisterApplication.class
+com\ustc\register\util\ResultWeb.class
+com\ustc\register\mapper\serverMapper.class
+com\ustc\register\web\WebSocketConfig.class
+com\ustc\register\entity\Server.class
+com\ustc\register\util\Message.class
+com\ustc\register\web\WebSocketServer.class
+com\ustc\register\Global\Global.class

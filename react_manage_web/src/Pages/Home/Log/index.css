@@ -1,0 +1,22 @@
+.tabs {
+    display: flex;
+}
+
+.tab {
+    width: 50%;
+    height: 50px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.tan-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.tab-line {
+    width: 10%;
+    height: 4px;
+    display: inline-block;
+    background-color: #165dff;
+}

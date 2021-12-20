@@ -1,0 +1,42 @@
+.login-container {
+    height: 100vh;
+    display: flex;
+}
+
+.left {
+    width: 60%;
+}
+
+.enter-image {
+    width: 0;
+    height: 100vh;
+    padding-left: 100%;
+    overflow: hidden;
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-image: url("https://cdn.jsdelivr.net/gh/xcm1115/myPictures/blogImg/20211130160156.jpg");
+}
+
+.right {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    width: 350px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.extra-actions {
+    width: 350px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}

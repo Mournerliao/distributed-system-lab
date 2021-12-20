@@ -1,0 +1,13 @@
+.operation {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.op-search {
+    background-color: #ffffff;
+}
+
+.op-space {
+    margin-left: 20px;
+}

@@ -1,0 +1,24 @@
+.operation {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.op-space {
+    margin-left: 20px;
+}
+
+.op-button {
+    margin-right: 10px;
+}
+
+.form-buttons {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.date-picker {
+    width: 100%;
+}
+

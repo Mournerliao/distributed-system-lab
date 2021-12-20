@@ -1,0 +1,13 @@
+.home-container {
+    display: flex;
+}
+
+.body-container {
+    width: 100%;
+    background-color: #f2f3f5;
+}
+
+.content-container {
+    padding: 5px 20px;
+}
+

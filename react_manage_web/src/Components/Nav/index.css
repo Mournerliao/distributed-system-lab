@@ -1,0 +1,9 @@
+.nav-container {
+    height: calc(100vh - 60px);
+    padding: 30px 10px;
+    display: inline-block;
+}
+
+.nav-menu {
+    height: 100%;
+}

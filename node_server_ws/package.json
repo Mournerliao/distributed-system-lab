@@ -1,0 +1,16 @@
+{
+  "name": "node_server_ws",
+  "version": "1.0.0",
+  "dependencies": {
+    "nanoid": "^3.1.30",
+    "ws": "^8.3.0"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
